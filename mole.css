@@ -1,5 +1,18 @@
 /* Your code here */
+.mole_head{
+  height: 282px;
+  width: 375px;
+  right: 150px;
+  top: 60px;
+}
 
+.dirt_pile{
+  height: 220px;
+  width: 640px;
+  top: 248px;
+  bottom: 0;
+  right: -7px;
+}
 
 
 /* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
